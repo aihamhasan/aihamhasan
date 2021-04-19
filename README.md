@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a Software Engineer - Flutter at DSI.dev
-- 🌱 I’m currently learning Full Stack Development, Machine Learning
-- 👯 I’m looking to collaborate on Open Source Projects
+- 🔭 I’m currently working as a Software Engineer - Flutter at DSI.dev.
+- 🌱 I’m currently learning Full Stack Development, Machine Learning.
+- 👯 I’m looking to collaborate on Open Source Projects.
 
 <!--
 **aihamhasan/aihamhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

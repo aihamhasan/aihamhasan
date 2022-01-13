@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m a Software Engineer 
-- 🌱 I’m currently learning Java, Blockchain Technology
-- 👯 I’m looking to collaborate on Open Source Projects
+
+I am a Bangalore based Software Engineer, currently working @Mindtree as Senior Software Engineer, designing and building advanced Backend Services, tools ✨. I love designing and building for the web. I currently work as Full Stack Java Developer and has Experience developing Mobile Applications using Flutter. My Area of Interest is Blockchain Space where i go through d/t web3 projects. 👯 I’m looking to collaborate on Open Source Projects.
 
 <!--
 **aihamhasan/aihamhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

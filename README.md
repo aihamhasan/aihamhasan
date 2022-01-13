@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a Software Engineer 
-- 🌱 I’m currently learning Java, Machine Learning
+- 🌱 I’m currently learning Java, Blockchain Technology
 - 👯 I’m looking to collaborate on Open Source Projects
 
 <!--
